@@ -1,2 +1,4 @@
 # Project-1_Team6
-Big City Living and the Air We Breathe
+
+Problem #1: Does weather impact accident rate in New York?
+Problem #2: Does number of cab rides booked in New York vary with weather conditions?
