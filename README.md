@@ -1,6 +1,5 @@
-# Project-1_Team6
-Title: NYC Living- Impact of Weather
-
+# NYC Living- Impact of Weather
+ 
 
 
 Problem 1: Does weather impact accident rate in New York?
