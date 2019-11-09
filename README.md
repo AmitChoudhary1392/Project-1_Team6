@@ -1,4 +1,4 @@
-# NYC Living- Impact of Weather
+# NYC Living- Impact of Weather on Transportation and Energy Consumption
  
 Give an overview of all the states in US and then narrow down the analysis to New York.
  
@@ -25,6 +25,9 @@ Limit the dataset to 10,000 records. Analyse the result by weather conditions an
 ## Problem 3:
 
 How energy consumption chnages with the temperature conditions and weather?
+
+
+(For example, )
 
 Dataset: https://www.kaggle.com/robikscube/hourly-energy-consumption
 
