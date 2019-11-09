@@ -16,8 +16,13 @@ Does number of cab rides booked in New York vary with weather conditions?
 
 ## Problem 3: 
 
-
 Does weather impact cab trip duration?
+
+## Problem 4:
+
+How energy consumption chnages with the temperature conditions and weather?
+
+Dataset: https://www.kaggle.com/robikscube/hourly-energy-consumption
 
 
 ## Data sets to be used: 
