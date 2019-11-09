@@ -1,5 +1,7 @@
 # NYC Living- Impact of Weather
  
+ #whole data set to be narrowed down to NYC
+ 
 
 
 ## Problem 1: 
@@ -7,6 +9,7 @@
 
 Does weather impact accident rate in New York?
 
+*** for 2016
 
 ## Problem 2: 
 
