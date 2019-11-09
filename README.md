@@ -1,6 +1,6 @@
 # NYC Living- Impact of Weather
  
- #whole data set to be narrowed down to NYC
+Give an overview of all the states in US and then narrow down the analysis to New York.
  
 
 
