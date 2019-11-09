@@ -10,7 +10,7 @@
 Does weather impact accident rate in New York?
 
 
-Limit the dataset to 10,000 records. Analyse the result by weather conditions and temperature for each hour of the day.
+Limit the dataset to 10,000 records. Analyse the result by weather conditions and temperature for each hour of the day. (For example, What is the accident rate for 10:00 am- 11:00 am at 25 degree F vs. 10:00 am- 11:00 3 degree F?)
 
 *** for 2016
 
