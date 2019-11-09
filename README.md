@@ -19,11 +19,10 @@ Limit the dataset to 10,000 records. Analyse the result by weather conditions an
 Does number of cab rides booked in New York vary with weather conditions?
 
 
-## Problem 3: 
+Limit the dataset to 10,000 records. Analyse the result by weather conditions and temperature. (For example, What is the number of cab rides booked on a sunny day at 20-25 degree F vs. rainy day at 20-25 degree F?)
 
-Does weather impact cab trip duration?
 
-## Problem 4:
+## Problem 3:
 
 How energy consumption chnages with the temperature conditions and weather?
 
